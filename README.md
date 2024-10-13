@@ -7,7 +7,7 @@
 
 ### 1. Clone the repository:
 ```bash
-git clone [https://github.com/your-repository.git](https://github.com/mr12c/Godown-management.git)
+git clone https://github.com/mr12c/Godown-management.git
 cd your-repository
 ```
 
