@@ -7,7 +7,7 @@
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repository.git
+git clone [https://github.com/your-repository.git](https://github.com/mr12c/Godown-management.git)
 cd your-repository
 ```
 
@@ -26,6 +26,6 @@ docker build -t your-node-app .
 
 ### 4.run it
 ```bash
-docker run --env-file .env -p 3000:3000 your-node-app
+docker run --env-file .env -p 5000:3000 your-node-app
 
 ```
